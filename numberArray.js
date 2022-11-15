@@ -1,4 +1,4 @@
-var NumArry = [
+var numArr = [
     1,
     2,
     3,
